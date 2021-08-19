@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=000000&logo=Prettier&logoColor=F7B93E&label="/>
 
 
+### Связаться со мной: 
+
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/series_black)
-[![WhatsApp](https://img.shields.io/badge/+79999950106-black?style=social&logo=WhatsApp)](+79999950106)
 <br />
