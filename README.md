@@ -1,4 +1,4 @@
-### Всем привет  👋 Меня зовут Адам и я full-stack developer
+### Приветствую 👋. Меня зовут Адам и я full-stack developer
 
 ### Стэк с которым я работаю:
 <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=yellow" alt="js"/><img src="https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=gree" alt="nodejs"/>
