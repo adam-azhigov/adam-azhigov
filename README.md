@@ -20,6 +20,14 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=000000&logo=Postman&logoColor=FF6C37&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=000000&logo=Prettier&logoColor=F7B93E&label="/>
 
+### Мои проекты:
+### - Волонтерский сайт Добро ###
+
+> [Код](https://github.com/adam-azhigov/Dobro)
+ 
+### - Госпиталь больных людей
+
+> [Код](https://github.com/adam-azhigov/BackendSolo)
 
 ### Связаться со мной: 
 
