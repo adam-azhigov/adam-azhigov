@@ -1,6 +1,7 @@
 ### Всем привет  👋 Меня зовут Адам и я full-stack developer
 
 ### Languages and Tools:
+<img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=yellow" alt="js"/><img src="https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=gree" alt="nodejs"/>
 <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=yellow" alt="js"/>
 <img src="https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=gree" alt="nodejs"/>
 <img src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=00FFFF"/>
