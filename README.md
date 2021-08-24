@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=000000&logo=Nodemon&logoColor=76D04B&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=000000&logo=Postman&logoColor=FF6C37&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=000000&logo=Prettier&logoColor=F7B93E&label="/>
+<img src="https://img.shields.io/badge/Webpack-black?style=flat-square&logo=Webpack"/>
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=flat-square&logo=Webpack)
 ![Babel](https://img.shields.io/badge/Babel-black?style=flat-square&logo=Babel)
 ![Trello](https://img.shields.io/badge/Trello-black?style=flat-square&logo=Trello)
