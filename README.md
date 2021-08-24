@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=materialUI&logoColor=47C5FB"/>
 <img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
 <img src="https://img.shields.io/badge/-heroku-090909?style=for-the-badge&logo=heroku&logoColor=write"/>
-![Babel](https://img.shields.io/badge/Babel-black?style=flat-square&logo=Babel)
+
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Airbnb&color=000000&logo=Airbnb&logoColor=FF5A5F&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=000000&logo=CSS3&logoColor=1572B6&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=000000&logo=ESLint&logoColor=4B32C3&label="/>
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=000000&logo=Nodemon&logoColor=76D04B&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=000000&logo=Postman&logoColor=FF6C37&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=000000&logo=Prettier&logoColor=F7B93E&label="/>
-![Trello](https://img.shields.io/badge/Trello-black?style=flat-square&logo=Trello)
+![Babel](https://img.shields.io/badge/Babel-black?style=flat-square&logo=Babel)
 
 ### Мои проекты:
 ### - Волонтерский сайт Добро ###
