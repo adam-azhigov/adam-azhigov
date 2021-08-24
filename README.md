@@ -1,5 +1,5 @@
 
-< img src= "https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javaScript"
+<img src= "https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javaScript"
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux)
 ![Node-JS](https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js)
