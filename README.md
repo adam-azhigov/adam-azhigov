@@ -29,7 +29,7 @@
 
 > [Код](https://github.com/adam-azhigov/BackendSolo)
 
-###- ТЗ. Приложение с регистрацией и авторизацией(mongoddb,js,react,node.js,tailwind) 
+### - ТЗ. Приложение с регистрацией и авторизацией(mongoddb,js,react,node.js,tailwind) 
 > [Код](https://github.com/adam-azhigov/app-authauthorization-registration)
 
 
