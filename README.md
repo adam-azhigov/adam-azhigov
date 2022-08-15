@@ -29,6 +29,11 @@
 
 > [Код](https://github.com/adam-azhigov/BackendSolo)
 
+###- ТЗ. Приложение с регистрацией и авторизацией(mongoddb,js,react,node.js,tailwind) 
+> [Код](https://github.com/adam-azhigov/app-authauthorization-registration)
+
+
+
 ### Связаться со мной: 
 
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/series_black)
