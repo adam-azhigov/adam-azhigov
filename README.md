@@ -23,9 +23,9 @@
 ### Мои проекты:
 ### - Волонтерский сайт Добро ###
 
-> [Код](https://github.com/adam-azhigov/Dobro)
+> [Код](https://mern-dobro.herokuapp.com)
  
-### - Госпиталь больных людей
+### - Госпиталь для учета поступивших пациентов
 
 > [Код](https://github.com/adam-azhigov/BackendSolo)
 
