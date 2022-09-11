@@ -23,7 +23,7 @@
 ### Мои проекты:
 ### - Волонтерский сайт Добро ###
 
-> [Код](https://mern-dobro.herokuapp.com)
+> [Код](https://github.com/adam-azhigov/Dobro)
  
 ### - Госпиталь для учета поступивших пациентов
 
