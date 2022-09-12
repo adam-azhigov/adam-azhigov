@@ -24,13 +24,15 @@
 ### - Волонтерский сайт Добро ###
 
 > [Код](https://github.com/adam-azhigov/Dobro)
+
+### - ТЗ. Приложение с регистрацией и авторизацией(mongodb,js,react,node.js,tailwind) 
+> [Код](https://github.com/adam-azhigov/app-authauthorization-registration)
  
 ### - Госпиталь для учета поступивших пациентов
 
 > [Код](https://github.com/adam-azhigov/BackendSolo)
 
-### - ТЗ. Приложение с регистрацией и авторизацией(mongodb,js,react,node.js,tailwind) 
-> [Код](https://github.com/adam-azhigov/app-authauthorization-registration)
+
 
 
 
