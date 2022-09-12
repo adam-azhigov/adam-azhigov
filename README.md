@@ -39,4 +39,4 @@
 ### Связаться со мной: 
 
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/series_black)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-black?style=social&logo=whatsapp)](+79999950106)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-black?style=social&logo=whatsapp)] (+79999950106)
