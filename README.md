@@ -21,6 +21,11 @@
 ![Babel](https://img.shields.io/badge/Babel-black?style=flat-square&logo=Babel)
 
 ### Мои проекты:
+
+### - Тестовое задание от Авито
+
+> [Код](https://github.com/adam-azhigov/test-task-avito)
+
 ### - Волонтерский сайт Добро ###
 
 > [Код](https://github.com/adam-azhigov/Dobro)
